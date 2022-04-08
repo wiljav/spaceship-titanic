@@ -1,14 +1,13 @@
 # Spaceship Titanic Competition
-## Input:
+### Input:
 - train.csv
 - test.csv
 
-## Output:
+### Output:
 - submission.csv
-
-
-# Model:
-## Random Forest Classifier using Principal Component Analysis (PCA)
-
-# Model Evaluation:
-## Mean Squared Error (MSE)
+***
+### Model:
+Random Forest Classifier using Principal Component Analysis (PCA)
+***
+### Model Evaluation:
+Mean Squared Error (MSE)
